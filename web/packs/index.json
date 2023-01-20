@@ -1,17 +1,35 @@
 {
   "packs": [
+    "ChineseDragon.json",
     "UniPink.json",
     "MrPepe.json",
+    "Cowboy.json",
+    "JinxPowder.json",
     "Cat2O.json",
-    "config.json",
+    "Buddy_Bear.json",
+    "CowboyBebop.json",
+    "CookieAndMilky.json",
     "ConcernedFroge.json",
     "GreenLezard.json",
+    "FishPrometheus.json",
+    "CyberGirl.json",
+    "HumanBox.json",
+    "SneakerChuck.json",
     "TomToodles.json",
     "Minions.json",
+    "FatKing.json",
+    "LiveFlowers.json",
     "Eggdog.json",
+    "mrMandarine.json",
     "HotCherry.json",
+    "Tapir.json",
     "Hedgehog.json",
-    "MiladyNoir.json"
+    "MiladyNoir.json",
+    "Godzi.json",
+    "SweetCarrot.json",
+    "Boar90s.json",
+    "DeathNote.json",
+    "Animanguys.json"
   ],
   "homeserver_url": "https://esmailelbob.xyz"
 }
