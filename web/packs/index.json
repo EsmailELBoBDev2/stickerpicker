@@ -1,0 +1,17 @@
+{
+  "packs": [
+    "UniPink.json",
+    "MrPepe.json",
+    "Cat2O.json",
+    "config.json",
+    "ConcernedFroge.json",
+    "GreenLezard.json",
+    "TomToodles.json",
+    "Minions.json",
+    "Eggdog.json",
+    "HotCherry.json",
+    "Hedgehog.json",
+    "MiladyNoir.json"
+  ],
+  "homeserver_url": "https://esmailelbob.xyz"
+}
